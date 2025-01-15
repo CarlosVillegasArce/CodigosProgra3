@@ -1,0 +1,3 @@
+C:/Users/carlo/OneDrive/Escritorio/Codigos/Repaso C++/Semana2/cmake-build-debug/CMakeFiles/Semana2.dir
+C:/Users/carlo/OneDrive/Escritorio/Codigos/Repaso C++/Semana2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/carlo/OneDrive/Escritorio/Codigos/Repaso C++/Semana2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
